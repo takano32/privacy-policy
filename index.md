@@ -19,7 +19,7 @@ Since we do not collect user information, we do not provide user information to 
   - takano32@gmail.com
 
 
-# Japanese
+# 日本語
 
 ## 利用者情報の取得	
 
